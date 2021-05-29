@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch-classification/utils/progress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch/pytorch-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch/pytorch-classification/utils/progress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch/pytorch_classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_chess/pytorch/pytorch_classification/utils/progress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch-classification/utils/progress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch_classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch_classification/utils/progress" vcs="Git" />
+  </component>
+</project>
