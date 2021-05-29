@@ -25,7 +25,6 @@ g = ChessGame(8)
 # all players
 rp = RandomPlayer(g).play
 hp = HumanChessPlayer(g).play
-sp = StockFishPlayer(g, './_chess/stockfish/stockfish_13_linux_x64_bmi2').play
 
 
 # nnet players
